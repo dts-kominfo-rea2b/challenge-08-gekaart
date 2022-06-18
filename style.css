@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(151, 97, 151);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}   
+
+#app {
+    border: 10 black;
+    border-radius: 10;
+    background-color: white;
+    width: 500px;
+    text-align: center;
+    font-size: medium;
+    height: 400px;
+}
+
+#todo-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#todo-output {
+    text-align: left;
+    margin-left: 30px;
+}
